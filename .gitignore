@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Microsoft Office temp files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+*.tmp
+
+# Editor files
+.vscode/
+.idea/
+
+# Environment files
+.env
+*.env
